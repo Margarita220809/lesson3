@@ -1,1 +1,5 @@
+
+conflict from local
+=======
 first from remote
+
